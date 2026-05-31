@@ -85,18 +85,6 @@ Rather than memorizing arbitrary code commands, students systematically attack p
 ### 3. Measuring Progression: Biggs’ SOLO Taxonomy vs. Bloom
 While most school curricula blindly lean on Bloom’s Taxonomy, this course is systematically mapped to Biggs and Collis' **SOLO Taxonomy (Structure of Observing Learning Outcomes)**. Bloom treats knowledge abstractly; SOLO measures the explicit *structural complexity* of a learner's output.
 
-## For Teachers
-
-See [teacher-notes/teacher-guide.md](teacher-notes/teacher-guide.md) for:
-
-- Full curriculum alignment notes
-- SOLO rubrics and assessment guidance
-- Differentiation strategies (early finishers, EAL/D, no hardware)
-- GitHub Pages hosting instructions
-- FAQs
-
----
-
 ## Quick Setup
 
 1. Clone or download this repository
