@@ -12,7 +12,7 @@ This course is likely to be 2-3 weeks if students timetabled for 3hrs per week. 
 
 **This is a FREE course** but you can support this and other courses for the price of a coffee
 
-<p align="left">
+<p align="center">
   <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
     <img src="https://img.shields.io/badge/☕_Help_fund_this_with_$5_donation-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal Donation Button">
   </a>
