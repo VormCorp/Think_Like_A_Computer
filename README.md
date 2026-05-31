@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="VormCorp EdTech Banner" width="100%">
+</p>
+
 # Think Like a Computer
 
 ## Micro:bit & Computational Thinking — 10-Lesson Course
