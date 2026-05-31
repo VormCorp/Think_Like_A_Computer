@@ -6,6 +6,14 @@ A complete, open-source course for Year 7–8 students (age ~13) with no prior c
 
 This course is likely to be 2-3 weeks if students timetabled for 3hrs per week. The lessons are intended to be 40 mins, however this means getting a hussle on. 60 minute lessons are more likely allowing for set up and pack up time.
 
+**This is a FREE course** but you can support this and other courses for the price of a coffee
+
+<p align="left">
+  <a href="https://www.paypal.com/ncp/payment/SHQNBXYYRTHBG" target="_blank">
+    <img src="https://img.shields.io/badge/☕_Help_fund_this_with_$5_donation-FFD140?style=for-the-badge&logo=paypal&logoColor=black" alt="PayPal Donation Button">
+  </a>
+</p>
+
 **Built for NSW schools implementing the Technology 7–8 Syllabus (2023) from 2026.**
 
 ---
